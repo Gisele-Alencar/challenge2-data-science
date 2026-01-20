@@ -47,8 +47,8 @@ Analisar o **Churn (evasão de clientes)** da TelecomX para identificar padrões
 ### 🔹 Churn por Variáveis Categóricas
 
 **Contrato**
-- Month-to-month → **maior taxa de churn**
-- One year / Two year → **churn significativamente menor**
+- Month-to-month(Mensal)→ **maior taxa de churn**
+- One year/Two year(Anual)→ **churn significativamente menor**
 
 **Forma de Pagamento**
 - Electronic check → **maior evasão**
@@ -106,9 +106,9 @@ telecomx-churn-analysis/
 │   └── churn_visualizations.png
 │
 └── README.md
-
+```
 ---
-
+#
 <p align="center">
   © 2025
 </p>
