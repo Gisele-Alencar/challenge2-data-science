@@ -1,4 +1,4 @@
-# 📊 Análise de Churn – TelecomX
+#  Análise de Churn – TelecomX
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
@@ -8,13 +8,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter / Colab" />
 </p>
 
-## Objetivo do Projeto
+
+### Objetivo do Projeto
 
 Analisar o **Churn (evasão de clientes)** da TelecomX para identificar padrões de cancelamento e apoiar **decisões estratégicas de retenção de clientes**.
 
 ---
 
-## 🗂️ Dados
+## 📂 Dados
 
 - **Fonte:** API pública (JSON)  
 - **Total de registros:** 7.043 clientes  
@@ -38,13 +39,13 @@ Analisar o **Churn (evasão de clientes)** da TelecomX para identificar padrões
 
 ## 📈 Análise Exploratória de Dados (EDA)
 
-### 🔹 Distribuição do Churn
+ 🔹 Distribuição do Churn
 - **26,5%** dos clientes cancelaram o serviço  
 - **73,5%** permaneceram ativos  
 
 ---
 
-### 🔹 Churn por Variáveis Categóricas
+ 🔹 Churn por Variáveis Categóricas
 
 **Contrato**
 - Month-to-month(Mensal)→ **maior taxa de churn**
@@ -60,7 +61,7 @@ Analisar o **Churn (evasão de clientes)** da TelecomX para identificar padrões
 
 ---
 
-### 🔹 Churn por Variáveis Numéricas
+🔹 Churn por Variáveis Numéricas
 
 **Tempo de Contrato (Tenure)**
 - Clientes com menos de **12 meses** concentram a maior evasão  
@@ -70,7 +71,7 @@ Analisar o **Churn (evasão de clientes)** da TelecomX para identificar padrões
 - Clientes com valores mensais mais altos apresentam **maior taxa de cancelamento**
 
 **Gasto Total**
-- Clientes que cancelam possuem **baixo TotalCharges**, indicando **churn precoce**
+- Clientes que cancelam possuem **baixo TotalCharges**,(gasto total depende do tempo de permanência) indicando **churn precoce**
 
 ---
 
@@ -83,7 +84,7 @@ Analisar o **Churn (evasão de clientes)** da TelecomX para identificar padrões
 
 ---
 
-## 🎯 Recomendações
+## 🕵️‍♀️ Recomendações
 
 - Incentivar a migração de contratos mensais para **planos anuais**
 - Oferecer benefícios para **débito automático e cartão**
