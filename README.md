@@ -95,6 +95,12 @@ Analisar o **Churn (evasão de clientes)** da TelecomX para identificar padrões
 - Oferecer benefícios para **débito automático e cartão**
 - Criar ações de retenção focadas nos **primeiros 6 meses**
 - Revisar o **valor percebido** dos planos Fiber Optic
+  
+## 🔗 Notebook no Google Colab
+
+O código completo da análise, incluindo tratamento de dados e visualizações, está disponível no Colab:
+
+**https://colab.research.google.com/drive/1OfwmJ0lujaZQcomzL17vDa2J-cuV7k_h?usp=sharing**
 
 ---
 ## 📁 Estrutura do Projeto
